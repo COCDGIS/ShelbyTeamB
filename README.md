@@ -13,3 +13,14 @@
 8.	Collaborate with stakeholders, including local government agencies, non-profit organizations, and community leaders, to align GIS solutions with their requirements and expectations, ultimately achieving the organization's goals.
 
 Contributors: Rahul, Comson, and Njoroge
+
+## Project Alpha:
+Objective: Generation of Georefrenced data for the organisation.
+Data List:
+1. Boundary and area distribution layers
+2. Past donors
+3. Language and cultural centers
+4. Healthcare facilities
+5. Educational Institutes
+6. Employment centers
+7. Legal assistance
