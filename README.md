@@ -26,19 +26,19 @@ Progress terminology:<br>
 ## Project Alpha:
 Objective: Generation of Georefrenced data for the organisation.<br>
 Generated Data List:
-1. Boundary and area distribution layers(shp)
-2. Past donors(shp)
-3. Language and cultural centers(shp)
-4. Healthcare facilities(shp)
-5. Educational Institutes(shp)
-6. Employment centers(shp)
-7. Legal assistance(shp)
-8. Housing assistance(shp)
-9. Financial services(shp)
-10. Social services(shp)
-11. Community centers(shp)
-12. Religious centers(shp)
-13. Public transportation hubs(shp)
+1. Boundary and area distribution layers(shp) [N]
+2. Past donors(shp) [N]
+3. Language and cultural centers(shp) [N]
+4. Healthcare facilities(shp) [N]
+5. Educational Institutes(shp) [N]
+6. Employment centers(shp) [N]
+7. Legal assistance(shp) [N]
+8. Housing assistance(shp) [N]
+9. Financial services(shp) [N]
+10. Social services(shp) [N]
+11. Community centers(shp) [N]
+12. Religious centers(shp) [N]
+13. Public transportation hubs(shp) [N]
 
 ## Project Delta
 Objective: Building donorbase model with inclusion of georefrenced data
