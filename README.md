@@ -14,13 +14,31 @@
 
 Contributors: Rahul, Comson, and Njoroge
 
+Progress terminology:
+                    C-[ContributorsName]: Completed
+                    I-[ContributorsName]: Inprogress
+                    A-[ContributorsName]: Assigned
+                    +U(Date)-[ContributorsName]: Updated
+                    N: Not Initiated
+                    FileName/ProjectName[thUpdate]: Updating file or multiple files related to same prject eg. Readme[0]
 ## Project Alpha:
 Objective: Generation of Georefrenced data for the organisation.
+Generated Data List:
+1. Boundary and area distribution layers(shp)
+2. Past donors(shp)
+3. Language and cultural centers(shp)
+4. Healthcare facilities(shp)
+5. Educational Institutes(shp)
+6. Employment centers(shp)
+7. Legal assistance(shp)
+8. Housing assistance(shp)
+9. Financial services(shp)
+10. Social services(shp)
+11. Community centers(shp)
+12. Religious centers(shp)
+13. Public transportation hubs(shp)
+
+## Project Delta
+Objective: Building donorbase model with inclusion of georefrenced data
 Data List:
-1. Boundary and area distribution layers
-2. Past donors
-3. Language and cultural centers
-4. Healthcare facilities
-5. Educational Institutes
-6. Employment centers
-7. Legal assistance
+1. Past donor Data
