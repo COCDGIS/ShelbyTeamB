@@ -16,11 +16,11 @@ Contributors: Rahul, Comson, and Njoroge
 
 Progress terminology:<br>
 ```
-                    C-[ContributorsName]: Completed<br>
-                    I-[ContributorsName]: Inprogress<br>
-                    A-[ContributorsName]: Assigned<br>
-                    +U(Date)-[ContributorsName]: Updated<br>
-                    N: Not Initiated<br>
+                    C-[ContributorsName]: Completed
+                    I-[ContributorsName]: Inprogress
+                    A-[ContributorsName]: Assigned
+                    +U(Date)-[ContributorsName]: Updated
+                    N: Not Initiated
                     FileName/ProjectName[thUpdate]: Updating file or multiple files related to same prject eg. Readme[0]
 ```
 ## Project Alpha:
