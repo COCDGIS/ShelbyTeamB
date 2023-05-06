@@ -14,15 +14,15 @@
 
 Contributors: Rahul, Comson, and Njoroge
 
-Progress terminology:
-                    C-[ContributorsName]: Completed
-                    I-[ContributorsName]: Inprogress
-                    A-[ContributorsName]: Assigned
-                    +U(Date)-[ContributorsName]: Updated
-                    N: Not Initiated
+Progress terminology:<br>
+                    C-[ContributorsName]: Completed<br>
+                    I-[ContributorsName]: Inprogress<br>
+                    A-[ContributorsName]: Assigned<br>
+                    +U(Date)-[ContributorsName]: Updated<br>
+                    N: Not Initiated<br>
                     FileName/ProjectName[thUpdate]: Updating file or multiple files related to same prject eg. Readme[0]
 ## Project Alpha:
-Objective: Generation of Georefrenced data for the organisation.
+Objective: Generation of Georefrenced data for the organisation.<br>
 Generated Data List:
 1. Boundary and area distribution layers(shp)
 2. Past donors(shp)
