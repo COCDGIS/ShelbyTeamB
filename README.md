@@ -15,12 +15,12 @@
 Contributors: Rahul, Comson, and Njoroge
 
 Progress terminology:<br>
-                    C-[ContributorsName]: Completed<br>
-                    I-[ContributorsName]: Inprogress<br>
-                    A-[ContributorsName]: Assigned<br>
-                    +U(Date)-[ContributorsName]: Updated<br>
-                    N: Not Initiated<br>
-                    FileName/ProjectName[thUpdate]: Updating file or multiple files related to same prject eg. Readme[0]
+                    &nbsp;C-[ContributorsName]: Completed<br>
+                  &nbsp;  I-[ContributorsName]: Inprogress<br>
+                &nbsp;    A-[ContributorsName]: Assigned<br>
+                &nbsp;    +U(Date)-[ContributorsName]: Updated<br>
+                &nbsp;    N: Not Initiated<br>
+              &nbsp;      FileName/ProjectName[thUpdate]: Updating file or multiple files related to same prject eg. Readme[0]
 ## Project Alpha:
 Objective: Generation of Georefrenced data for the organisation.<br>
 Generated Data List:
